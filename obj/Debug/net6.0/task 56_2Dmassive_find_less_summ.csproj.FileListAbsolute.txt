@@ -1,0 +1,15 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\bin\Debug\net6.0\task 56_2Dmassive_find_less_summ.exe
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\bin\Debug\net6.0\task 56_2Dmassive_find_less_summ.deps.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\bin\Debug\net6.0\task 56_2Dmassive_find_less_summ.runtimeconfig.json
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\bin\Debug\net6.0\task 56_2Dmassive_find_less_summ.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\bin\Debug\net6.0\task 56_2Dmassive_find_less_summ.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.csproj.CoreCompileInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\refint\task 56_2Dmassive_find_less_summ.dll
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.pdb
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\task 56_2Dmassive_find_less_summ.genruntimeconfig.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\Homework 8 10.10.2022\task 56_2Dmassive_find_less_summ\obj\Debug\net6.0\ref\task 56_2Dmassive_find_less_summ.dll
